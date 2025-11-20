@@ -16,7 +16,7 @@ This project is an example that
 
 ## 📺 Demo Live Preview 
 
-https://bluemzzn.github.io/portfolio-website/
+https://bluemzzn.github.io/portfolio-website-template/
 
 
 ## Project Structure
